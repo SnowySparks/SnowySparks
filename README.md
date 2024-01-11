@@ -13,7 +13,7 @@
 
 ---
 #### Algorithm Stats (Old)
-<img src ="http://mazassumnida.wtf/api/generate_badge?boj=rain_detals"/><img src="http://mazandi.herokuapp.com/api?handle=rain_detals&theme=dark"/>
+<a herf = "https://www.acmicpc.net/user/rain_detals"><img src ="http://mazassumnida.wtf/api/generate_badge?boj=rain_detals"/></a><a herf = "https://www.acmicpc.net/user/rain_detals"><img src="http://mazandi.herokuapp.com/api?handle=rain_detals&theme=dark"/></a>
 
 ---
 <div align="left"> 
