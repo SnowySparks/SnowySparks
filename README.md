@@ -2,7 +2,7 @@
   
  # Hi! I'm SnowySparks
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SnowySparks&animation=fadeIn&fontColor=000000&fontSize=70" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SnowySparks&animation=fadeIn&fontColor=00BBF4&fontSize=70" />
 
  ---
 ###  Languages
