@@ -2,28 +2,59 @@
   
  # Hi! I'm SnowySparks
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+To+MY+Develop+PORTFOLIO)](https://git.io/typing-svg)
+
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SnowySparks&animation=fadeIn&fontColor=00BBF4&fontSize=70" />
 
  ---
+
+## ✨ Tech Stack ✨ ##
+ 
 ###  Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3DDC84.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+### Framework & Library 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+
+### Web Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+
+
+### Studying 
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
 
 
 ---
-#### Algorithm Stats (Old)
+### Algorithm 역량
 <a herf = "https://www.acmicpc.net/user/rain_detals"><img src ="http://mazassumnida.wtf/api/generate_badge?boj=rain_detals"/></a><a herf = "https://www.acmicpc.net/user/rain_detals"><img src="http://mazandi.herokuapp.com/api?handle=rain_detals&theme=dark"/></a>
+#### 삼성 상시 역량 테스트 LEVEL B 취득 (2024. 08)
+#### 프로그래머스 코딩역량테스트 PCCP C++ Level 4 (2025. 01)
 
 ---
 <div align="left"> 
   
-### 개발학습
-SSAFY 11기
+### 교육 수료
+#### ✨ SSAFY 11기 우수 수료생 (상위 5%) ✨
 
-### 목표
-1. 백준괴물 되기
-2. 프론트 or 백엔드 취업 
+---
+### 🏆 수상 기록 🏆
+
+- SSAFY 11기 우수 수료생 (상위 5%) [2024.12]
+- SSAFY 자율 프로젝트 기엽연계 그룹 내 1등 수상 [2024. 11]
+- SSAFY 삼성전자 연계 프로젝트 3등 수상 [2024. 10]
+- SSAFY 1학기 성적 우수상 [2024. 5]
+
 
 </div>
 
