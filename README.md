@@ -56,6 +56,25 @@
 - SSAFY 1학기 성적 우수상 [2024. 5]
 
 
+</div> 
+
+---  
+
+<div align="left"> 
+
+
+### 참가한 프로젝트들
+
+#### NativeNavs  
+현지인과 가이드를 연결시켜주는 하이브리드 앱 [링크](https://github.com/SnowySparks/NativeNavs)
+
+#### Defeact Studio  
+제조업에서 사용하는 검증 AI에 양질의 불량 데이터를 제공하는 생성형 AI 데스크톱 앱 [링크](https://github.com/SnowySparks/Defect-Studio)
+
+#### DATAG  
+Vision AI를 위해, 이미지를 분석하여 유사도를 파악하는 웹 페이지 [링크](https://github.com/SnowySparks/DATAG)
+
+
 </div>
 
 <div align="right"> 
