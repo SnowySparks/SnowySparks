@@ -6,6 +6,8 @@
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SnowySparks&animation=fadeIn&fontColor=00BBF4&fontSize=70" />
 
+ Typescript로 웹의 모든것을 다루기 위해 달려 가는 꿈나무 개발자 입니다.
+
  ---
 
 ## ✨ Tech Stack ✨ ##
@@ -30,7 +32,7 @@
 
 
 ### Studying 
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=000&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
 
